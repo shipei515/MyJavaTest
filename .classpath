@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="groovy-all-1.8.6.jar" sourcepath="C:/Users/sp/AppData/Local/Temp/decompiler/source/groovy-all-1.8.6-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar" sourcepath="C:/Users/sp/AppData/Local/Temp/decompiler/source/commons-httpclient-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar" sourcepath="C:/Users/sp/AppData/Local/Temp/decompiler/source/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar" sourcepath="C:/Users/sp/AppData/Local/Temp/decompiler/source/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jni4net.j-0.8.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/framework-base-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/framework-core-2.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/framework-front-agent.jar"/>
+	<classpathentry kind="lib" path="lib/framework-mda-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/framework-right-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/framework-web-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/axis-1.4.jar" sourcepath="C:/Users/sp/AppData/Local/Temp/decompiler/source/axis-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.5.jar"/>
+	<classpathentry kind="lib" path="lib/axis-jaxrpc-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/shiro-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/shiro-ehcache-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/shiro-spring-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/shiro-web-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-4.3.4.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
